@@ -1,0 +1,14 @@
+#Primero se crea el repositorio onlinne
+#Luego se clona
+git clone https://github.com/parcial2bioinformatica/Nicolas-Luna-Luisa-Paez.git
+cd Nicolas-Luna-Luisa-Paez/
+
+#Para hacer el commit
+git commit -m "Commit de ejemplificación para el ejercicio"
+
+#Despues de guardar el documento del proyecto y el código se hace un add y luego un commit
+git add .
+git commit -m "Documento de proyecto final y txt con código"
+
+#Finalmente se hace un push para subir los documentos
+git push origin master
