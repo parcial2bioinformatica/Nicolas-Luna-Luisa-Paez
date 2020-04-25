@@ -1,5 +1,7 @@
 #Primero se crea el repositorio onlinne
 #Luego se pone en la terminal
+mkdir Parcial
+cd Parcial
 git remote add origin https://github.com/parcial2bioinformatica/Nicolas-Luna-Luisa-Paez.git
 
 #Para hacer el commit se guardar el documento del proyecto
